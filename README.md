@@ -8,7 +8,7 @@ A personal reading log of books and papers I've read (in part or in full) that I
 - Modern Time Series Forecasting with Python (Manu Joseph, Jeffrey Tackes)
 
 ---
-### Machine Learning / Statistical Learning
+### Machine Learning & Statistical Learning
 
 - An Intro to Statistical Learning with Python AKA ISLP (James, Witten, Hastie, Tibshirani, Taylor)
 - The Orange Book of Machine Learning Green Edition (Carl McBride Ellis)
