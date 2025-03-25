@@ -1,6 +1,6 @@
 # Reading
 
-A personal reading log of books and papers I've read (in part or in full) that I found helpful, enjoyable, and will probably keep coming back to. 
+A personal log of books and papers I've read (in part or in full) that I found helpful, enjoyable, and will probably keep coming back to. 
 
 ---
 ### Time Series 
