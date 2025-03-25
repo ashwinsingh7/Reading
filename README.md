@@ -34,13 +34,12 @@ A personal log of books and papers I've read (in part or in full) that I found h
 
 - Intro to Computation and Programming using Python (John V Guttag)
 
----
-### Miscellaneous
-
-
 
 ---
 ### Mathematics
 
 - Mathematics for Economics Analysis (Sydsaeter and Hammond)
+
+---
+### Miscellaneous
 
